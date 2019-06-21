@@ -39,7 +39,7 @@ namespace AutoShop
                 {
                     Console.WriteLine("");
                     Console.WriteLine("Incorrect Code Entered !");
-                    Console.WriteLine("For Try Again Press any keys ...");
+                    Console.WriteLine("Press any key to try again ...");
                     Console.ReadLine();
                 }
                 if (CodeAccepted > 0)
