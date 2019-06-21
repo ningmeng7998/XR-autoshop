@@ -4,3 +4,9 @@ C:\Users\Eng.Masihi\Desktop\GraceLi\AutoShop\AutoShop\bin\Debug\AutoShop.pdb
 C:\Users\Eng.Masihi\Desktop\GraceLi\AutoShop\AutoShop\obj\Debug\AutoShop.csproj.CoreCompileInputs.cache
 C:\Users\Eng.Masihi\Desktop\GraceLi\AutoShop\AutoShop\obj\Debug\AutoShop.exe
 C:\Users\Eng.Masihi\Desktop\GraceLi\AutoShop\AutoShop\obj\Debug\AutoShop.pdb
+C:\Users\ningm\OneDrive\Desktop\Source\GraceLi\AutoShop\AutoShop\bin\Debug\AutoShop.exe.config
+C:\Users\ningm\OneDrive\Desktop\Source\GraceLi\AutoShop\AutoShop\bin\Debug\AutoShop.exe
+C:\Users\ningm\OneDrive\Desktop\Source\GraceLi\AutoShop\AutoShop\bin\Debug\AutoShop.pdb
+C:\Users\ningm\OneDrive\Desktop\Source\GraceLi\AutoShop\AutoShop\obj\Debug\AutoShop.csproj.CoreCompileInputs.cache
+C:\Users\ningm\OneDrive\Desktop\Source\GraceLi\AutoShop\AutoShop\obj\Debug\AutoShop.exe
+C:\Users\ningm\OneDrive\Desktop\Source\GraceLi\AutoShop\AutoShop\obj\Debug\AutoShop.pdb

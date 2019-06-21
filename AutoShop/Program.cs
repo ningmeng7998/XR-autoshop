@@ -13,11 +13,11 @@ namespace AutoShop
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("Welcome To Auto Shop ...");
-                Console.WriteLine("Our services are as follows.");
+                Console.WriteLine("Welcome To XR Auto Shop ...");
+                Console.WriteLine("Our products are as follows.");
                 Console.WriteLine("");
                 Console.WriteLine("/=============================================================================\\");
-                Console.WriteLine("|   Packages Name   | Packages Code | Packs                                   |");
+                Console.WriteLine("|   Package  Name   | Package  Code | Packs                                   |");
                 Console.WriteLine("|-----------------------------------------------------------------------------|");
                 Console.WriteLine("|  1- Sliced Ham    |      SH3      | 3 : $2.99 -  5 : $4.49                  |");
                 Console.WriteLine("|-----------------------------------------------------------------------------|");
@@ -57,7 +57,7 @@ namespace AutoShop
                         case 3: { Console.WriteLine("Selected Package : Toilet Rolls"); Package_Code = "3"; Package_Name = "Toilet Rolls"; break; }
                     }
                     Console.WriteLine("");
-                    Console.WriteLine("Please Enter Packs Count You Need ...");
+                    Console.WriteLine("Please Enter the Number of Packs You Need ...");
                     Console.Write("> ");
                     string PackCount = Console.ReadLine();
                     PackCount = PackCount.Replace(" ", "").Replace(">", "");
@@ -70,13 +70,13 @@ namespace AutoShop
                         Console.WriteLine("");
                         Console.WriteLine("-------------------------------------------------------------------------------");
                         Console.WriteLine("");
-                        Console.WriteLine("Thanks for Your Shopping");
-                        Console.WriteLine("Your Final Purchase Status is as Follows :");
+                        Console.WriteLine("Thanks for Shopping in our store");
+                        Console.WriteLine("Order Result :");
                         Console.WriteLine("");
                         Console.WriteLine("");
                         Console.WriteLine("  - Package Code  : " + Package_Code);
                         Console.WriteLine("  - Package Name  : " + Package_Name);
-                        Console.WriteLine("  - Package Count : " + Package_Count);
+                        Console.WriteLine("  - Package Number : " + Package_Count);
                         Console.WriteLine("");
                         Console.WriteLine(" < --------------------------------------------- >");
                         Console.WriteLine("");
@@ -179,18 +179,18 @@ namespace AutoShop
                         Console.WriteLine("");
                         Console.WriteLine(" < --------------------------------------------- >");
                         Console.WriteLine("");
-                        Console.WriteLine("  Sum Price  : $ " + Sum_Price);
+                        Console.WriteLine("  Total Price  : $ " + Sum_Price);
                         Console.WriteLine("");
                         Console.WriteLine("-------------------------------------------------------------------------------");
                         Console.WriteLine("");
-                        Console.WriteLine("For Try Again Press any keys ...");
+                        Console.WriteLine("Press any key to try again ...");
                         Console.ReadLine();
                     }
                     else
                     {
                         Console.WriteLine("");
-                        Console.WriteLine("Incorrect Packs Count Entered !");
-                        Console.WriteLine("For Try Again Press any keys ...");
+                        Console.WriteLine("Incorrect Packs Number Entered !");
+                        Console.WriteLine("Press any key to try again ... ");
                         Console.ReadLine();
                     }
                 }
